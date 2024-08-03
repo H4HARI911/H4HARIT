@@ -13,56 +13,56 @@
 <br>
 <br>
 <br>
-<img src="ae.jpeg" alt="mage">
+<img src="ae.jpeg">
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-<img src="de3.jpeg" alt="4image">
+<img src="de3.jpeg">
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-<img src="g.jpeg" alt="img">
+<img src="g.jpeg">
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-<img src="g2.jpeg" alt="iage">
+<img src="g2.jpeg">
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-<img src="g5.jpeg" alt="image">
+<img src="g5.jpeg">
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-<img src="h1.jpeg" alt="img">
+<img src="h1.jpeg">
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-<img src="h3.jpeg" alt="mage">
+<img src="h3.jpeg">
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-<img src="h4.jpeg" alt="mage">
+<img src="h4.jpeg">
 <br>
 <br>
 <br>
@@ -71,21 +71,21 @@
 <br>
 <br>
 <br>
-<img src="h6.jpeg" alt="img">
+<img src="h6.jpeg">
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-<img src="hhtt.jpeg" alt="mage">
+<img src="hhtt.jpeg">
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-<img src="i2" alt="image">
+<img src="i2">
 <br>
 
 <br>
@@ -94,21 +94,21 @@
 <br>
 <br>
 <br>
-<img src="i5.jpeg" alt="img">
+<img src="i5.jpeg">
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-<img src="jkl.jpeg" alt="image">
+<img src="jkl.jpeg">
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-<img src="rr" alt="image">
+<img src="rr">
 
 <br>
 <br>
@@ -117,21 +117,21 @@
 <br>
 <br>
 <br>
-<img src="rtrt" alt="img">
+<img src="rtrt">
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-<img src="t1" alt="image">
+<img src="t1">
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-<img src="t3" alt="image">
+<img src="t3">
 
 <br>
 <br>
@@ -140,21 +140,21 @@
 <br>
 <br>
 <br>
-<img src="tgt.jpeg" alt="img">
+<img src="tgt.jpeg">
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-<img src="ythh.jpeg" alt="image">
+<img src="ythh.jpeg">
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-<img src="ytyt.jpeg" alt="huage">
+<img src="ytyt.jpeg">
 <br>
 <br>
 <br>
